@@ -1,0 +1,3 @@
+[submodule "eth-bangkok-front"]
+	path = eth-bangkok-front
+	url = https://github.com/505-solutions/eth-bangkok-front
