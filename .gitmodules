@@ -1,3 +1,12 @@
 [submodule "eth-bangkok-front"]
 	path = eth-bangkok-front
 	url = https://github.com/505-solutions/eth-bangkok-front
+[submodule "phala-tee-python"]
+	path = phala-tee-python
+	url = https://github.com/505-solutions/phala-tee-python
+[submodule "solidity-bangkok"]
+	path = solidity-bangkok
+	url = https://github.com/505-solutions/solidity-bangkok
+[submodule "flare-db-verifier-server"]
+	path = flare-db-verifier-server
+	url = https://github.com/505-solutions/flare-db-verifier-server
