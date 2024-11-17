@@ -10,3 +10,6 @@
 [submodule "flare-db-verifier-server"]
 	path = flare-db-verifier-server
 	url = https://github.com/505-solutions/flare-db-verifier-server
+[submodule "onramp-contracts"]
+	path = onramp-contracts
+	url = https://github.com/lukaske/onramp-contracts
